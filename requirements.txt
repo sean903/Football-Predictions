@@ -1,0 +1,45 @@
+Please open FYP_Final in Jupyter notebook for best results
+
+
+INSTALLATIONS
+
+If there are  any difficulties using the Pip installer, visit: https://pip.pypa.io/en/stable/cli/pip_install/
+Please use pip package installer to install the following via these commands:
+
+pip install pandas
+
+pip install numpy
+
+pip install seaborn
+
+pip install --upgrade tensorflow
+
+pip install keras
+
+pip install -U keras-tuner
+
+pip install matplotlib
+
+pip install -U scikit-learn
+
+pip install scipy
+
+
+
+VERSIONS USED IN THIS MODEL:
+
+pandas==1.0.1
+
+numpy==1.19.5
+
+seaborn==0.10.0
+
+tensorflow==2.4.1
+
+keras==2.4.0
+
+kerastuner=1.0.2
+
+matplotlib==3.3.3
+
+sklearn==0.22.1
