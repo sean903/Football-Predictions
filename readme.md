@@ -51,6 +51,7 @@ A variety of match statistics were used e.g. number of shots, possession, goals 
 
 The figure below shows a simple betting strategy with the cumulative profit/loss resulting from placing a £1 bet on William Hill (betting compaany) for every game of the 2018/19 and 2019/20 season using the model predictions.  
 
+<img src="graphs/simple_betting.png" alt="Feature Importance Graph" width="800"/>
 
 ## Data Discovery
 
