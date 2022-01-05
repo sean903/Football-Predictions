@@ -37,7 +37,7 @@ Promoted teams are given 90% of the average of the leagues Elo rating as statist
 
 ### Form 
 
-Form is slightly different to Elo and measures the short term performance of a team. Form was calculated by using a formula orinigally proposed in a paper by Baboota and Kaur (Baboota, R. and Kaur, H., 2019, Predictive analysis and modelling football results using machine learning approach for English Premier League, International Journal of Forecasting, 35(2), pp.741-755). Teams were given a score ranging from 0 to 1 based on the results of their previous 4 matches.
+Form is slightly different to Elo and measures the short term performance of a team. Form was calculated by using a formula orinigally proposed in a paper by [Baboota and Kaur](https://ideas.repec.org/a/eee/intfor/v35y2019i2p741-755.html). Teams were given a score ranging from 0 to 1 based on the results of their previous 4 matches.
 
 ### Match Statistics 
 
