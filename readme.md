@@ -2,7 +2,7 @@
 
 ## Objective 
 
-The aim of this project was to create a predictive model for the English Premier League using data in the public domain and using the limited computational power available to the average sports fan. 
+The aim of this project was to create a predictive model for the English Premier League (Football) using data in the public domain and using the limited computational power available to the average sports fan. 
 
 ## Overview
 
